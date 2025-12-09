@@ -121,3 +121,15 @@
 # rezultat_str = str(rezultat)
 
 # print(' Salut ' + nume + ', mai ai de trait ' + rezultat_str + ' de ani pana la 100.')
+
+# nume = "Mihail"
+# #       012345
+# print(nume[0])
+# print(nume[1])
+# print(nume[2])
+# print(nume[3])
+# print(nume[4])
+# print(nume[5])
+
+nume= "Mihail"
+print(len(nume))
