@@ -131,5 +131,58 @@
 # print(nume[4])
 # print(nume[5])
 
-nume= "Mihail"
-print(len(nume))
+# nume= "Mihail"
+# print(len(nume))
+
+# list_cumparaturi = [ "mere" , "oua" , "lapte"]
+# lista_cumparaturi = [
+#     "mere",
+#     "oua",
+#     "lapte"
+# ]
+# lista_preturi=[
+#     5,
+#     6,
+#     8
+# ]
+# # print(lista_cumparaturi[0])
+# # print(lista_preturi[0])
+# print(" Pretul pemtru " + lista_cumparaturi[0] + " este de " + str(lista_preturi[0]) + " lei.")
+# print(" Pretul pemtru " + lista_cumparaturi[1] + " este de " + str(lista_preturi[1]) + " lei.")
+# print(" Pretul pemtru " + lista_cumparaturi[2] + " este de " + str(lista_preturi[2]) + " lei.")
+
+# lista_cu_liste = [
+#     ["mere",5],
+#     ["lapte",8],
+#     ["oua",3]
+# ]
+# lista_cu_mere = lista_cu_liste[0]
+# lista_cu_lapte = lista_cu_liste[1]
+# lista_cu_oua = lista_cu_liste[2]
+# print(lista_cu_mere)
+# print(lista_cu_lapte)
+# print(lista_cu_oua)
+# print("Pretul pentru " + lista_cu_liste[0][0] + " este de " + str(lista_cu_liste[0] [1]) + " Ron.")
+# print("Pretul pentru " + lista_cu_liste[1][0] + " este de " + str(lista_cu_liste[1] [1]) + " Ron.")
+# print("Pretul pentru " + lista_cu_liste[2][0] + " este de " + str(lista_cu_liste[2] [1]) + " Ron.")
+
+# adevarat = True
+# fals = False 
+
+# print(adevarat)
+# print(type(adevarat))
+# print(fals)
+# print(type(fals))
+
+# facut de mine extra
+# mana_dreapta= 5
+# mana_stanga = 5
+
+# if mana_stanga == mana_dreapta :
+#     print(True)
+# else :
+#     print(False)
+
+# numar_1 = 5
+# numar_2 = 5
+# print(numar_1 == numar_2)
