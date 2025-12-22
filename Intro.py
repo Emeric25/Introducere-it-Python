@@ -186,3 +186,19 @@
 # numar_1 = 5
 # numar_2 = 5
 # print(numar_1 == numar_2)
+
+# numar_1 = 5
+# numar_2 = 10
+# if numar_1 == numar_2:
+#     print("Numarul unu este egal cu numarul 2")
+# else:
+#     print("Numarul 1 nu este egal cu numarul 2")
+
+print("Buna , cati ani ai?")
+varsta=input("Varsat:")
+print(type(varsta))
+varsta_int = int(varsta)
+if varsta_int >18:
+    print("Poti intra in parcul de distractie")
+else :
+    print("Scuze dar nu poti intra in parcul de distractie")
