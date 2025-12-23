@@ -194,11 +194,47 @@
 # else:
 #     print("Numarul 1 nu este egal cu numarul 2")
 
-print("Buna , cati ani ai?")
-varsta=input("Varsat:")
-print(type(varsta))
-varsta_int = int(varsta)
-if varsta_int >18:
-    print("Poti intra in parcul de distractie")
-else :
-    print("Scuze dar nu poti intra in parcul de distractie")
+# Varianta mea
+# print("Buna , cati ani ai?")
+# varsta=input("Varsat:")
+# print(type(varsta))
+# varsta_int = int(varsta)
+# if varsta_int >18:
+#     print("Poti intra in parcul de distractie")
+# else :
+#     print("Scuze dar nu poti intra in parcul de distractie")
+
+# # varianta lui Bogdan
+# # < > >= <= egal neaparat la final
+# varsta= int(input("Varsta: "))
+
+# if varsta< 16:
+#     print("Din pacate nu ai varsta ca sa inti")
+# else:
+#     print("Ai voie sa intri")
+
+# lista_de_cumparaturi= [
+#     " Mere",
+#     " Oua",
+#     " Lapte",
+#     " Hartie"
+# ]
+# print(lista_de_cumparaturi)
+# print(lista_de_cumparaturi[0])
+# print(lista_de_cumparaturi[1])
+# print(lista_de_cumparaturi[2])
+# for element in lista_de_cumparaturi:
+#     print(element)
+
+# lista_cumparaturi = [
+#     ['lapte', 7],
+#     ['Paine', 5],
+#     ['kiwi', 1],
+#     ["mure",15]
+# ]
+# for elemente in lista_cumparaturi:
+#     # print(elemente)
+#     if elemente[0] == "Paine":
+#         print("Painea este gratis")
+#     else:
+#         print("Produsul " + elemente[0] + " are pretul " + str(elemente[1]) + " Ron." )
