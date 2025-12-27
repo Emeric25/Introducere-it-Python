@@ -238,3 +238,23 @@
 #         print("Painea este gratis")
 #     else:
 #         print("Produsul " + elemente[0] + " are pretul " + str(elemente[1]) + " Ron." )
+
+# nume = "mihail"
+# nume_majuscule = nume.upper()
+# print(nume_majuscule)
+# print(nume.upper())
+
+# nume = "IT SCHOOL"
+# nume_mic = nume.lower()
+# print(nume_mic)
+# print(nume.lower())
+
+# list_de_cumparaturi=['mama','masina']
+# list_de_cumparaturi.append('new_value')
+# print(list_de_cumparaturi)
+
+# lista_fructe=["mere","banane"]
+# print(lista_fructe)
+# lista_fructe.append("kiwi")
+# print(lista_fructe)
+# print(lista_fructe[2])
