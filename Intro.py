@@ -258,3 +258,22 @@
 # lista_fructe.append("kiwi")
 # print(lista_fructe)
 # print(lista_fructe[2])
+
+# import random
+
+# lista = [
+#     1,2,3,4,5
+# ]
+# print(lista)
+# random.shuffle(lista)
+# print(lista)
+
+# import random 
+# lista_de_intrebari = [
+#     "Cati ani are mama ta?",
+#     "Cati ani are tatal tau?",
+#     "Esti gay?"
+# ]
+# print(lista_de_intrebari)
+# random.shuffle(lista_de_intrebari)
+# print(lista_de_intrebari)
